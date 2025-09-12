@@ -14,6 +14,11 @@ export default function Botones () {
             <Ionicons name = "user" size={20} style={style.iconB}/>
             <Text style={style.text}> Botón Icono </Text>
         </TouchableOpacity>
+        {/* Botones con icono a la drecha */}
+        <TouchableOpacity style={style.botonIcono}>
+            <Text style={style.text}> Siguiente </Text>
+            <Ionicons name = "ban" size={20} color="#151414ff"style={style.iconRight}/>
+        </TouchableOpacity>
 
     </View>
   );
