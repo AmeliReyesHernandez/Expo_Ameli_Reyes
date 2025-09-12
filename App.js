@@ -10,4 +10,4 @@ export default function App() {
     //<BotonesV2 />
     <HomePrincipal />
   );
-}
+} 
