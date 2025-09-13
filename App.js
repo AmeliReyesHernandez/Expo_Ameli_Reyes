@@ -2,7 +2,8 @@
 //import BotonesV2 from "./src/pages/BotonesV2";  
 //import Botones from "./src/pages/Botones";
 // import Home from "./src/pages/Home";
-import Formulario from "./src/pages/Formulario";
+//import Formulario from "./src/pages/Formulario";
+import FormularioV2 from "./src/pages/FormularioV2";
 
 export default function App() {
   return (
@@ -10,6 +11,7 @@ export default function App() {
     //<Botones />
     //<BotonesV2 />
     //<HomePrincipal />
-    <Formulario/>
+    //<Formulario/>
+    <FormularioV2 />
   );
 } 
