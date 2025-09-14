@@ -17,7 +17,7 @@ export default function Formulario() {
 
         <Text style={style.label}> Correo Eectronico : </Text>
         <TextInput style={style.input} placeholder="Ingrese el correo" keyboardType="email-address"/>
-    
+
         <Text style={style.label}> Contraseña : </Text>
         <TextInput style={style.input} placeholder="*********" secureTextEntry/>
     

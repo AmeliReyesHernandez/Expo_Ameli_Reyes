@@ -3,7 +3,8 @@
 //import Botones from "./src/pages/Botones";
 // import Home from "./src/pages/Home";
 //import Formulario from "./src/pages/Formulario";
-import FormularioV2 from "./src/pages/FormularioV2";
+//import FormularioV2 from "./src/pages/FormularioV2";
+import ListaAlumnos from "./src/pages/Lista_Alumnos/ListaAlumnos";
 
 export default function App() {
   return (
@@ -12,6 +13,7 @@ export default function App() {
     //<BotonesV2 />
     //<HomePrincipal />
     //<Formulario/>
-    <FormularioV2 />
+    //<FormularioV2 />
+    <ListaAlumnos />
   );
 } 
